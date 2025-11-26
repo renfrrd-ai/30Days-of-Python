@@ -25,5 +25,5 @@ front_end = ['HTML', 'CSS', 'JS', 'React', 'Redux']
 back_end = ['Node', 'Express', 'MongoDB']
 front_end.extend(back_end)
 full_stack = front_end.copy()
-full_stack.insert(5, Python)
-full_stack.insert(6, SQL)
+full_stack.insert(5, 'Python')
+full_stack.insert(6, 'SQL')
